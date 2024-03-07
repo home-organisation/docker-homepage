@@ -1,4 +1,4 @@
-#Last package update 02 March 2024
+#Last package update 07 March 2024
 FROM ghcr.io/gethomepage/homepage:latest
 LABEL Maintainer="bizalu"
 
